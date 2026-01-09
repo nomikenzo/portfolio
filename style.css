@@ -1,0 +1,15 @@
+html, body{
+    background-color: #0D5942;
+    height: 100%;
+    margin: 0;
+}
+input{
+    width: 1920px;
+    border: none;
+    
+}
+.first{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
